@@ -1,0 +1,7 @@
+#cloud-config
+
+users:
+- name: "root"
+  passwd: "Sementara123!@#"
+  ssh_authorized_keys:
+  - "AAAAB3NzaC1yc2EAAAABJQAAAQEAwwZYgbPjrEfdvDXDxirbQ6+QfdEsq0YFxSMGaoin7OXQqSj3Z2CL3/EzfXVXHO8aY5qE4bPTOVtT6iq9TJmXFwgZ5RH7dyWWcTDfpPYuGLaN6l7mLWerdYB6fSJytrxVDCrbI2FoWb9N8PogLZEhgc7Pe/mAAGYPbXAWIS1PudK9FdrMu80ZOyI+qKDfD5M5pPdMzfMdvLpiHcvKNT3nyV4pNUy6IkdeKYH6v7pLtenisqi9AvMMuLbzUwvrJ1mF/ux2wZggtaoy8kvhd2Pi0VRgtCaIZ8t7TCHcwCgfhb3fLGYx+Krg5ZLhcTRXJJmzkQFsRPanczca/xtdsau38w=="
